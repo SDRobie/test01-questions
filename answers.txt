@@ -1,0 +1,27 @@
+1. source control allows changes to a project and the ability to share the workload or results
+2. branching allows working on sections of code without disturbing the current product & allows staging3. personalize git, like add user name and email
+4. revision control
+5. subversion
+6. git clone
+7. allows for a brief message to explain the commit -m
+8. commit
+9. a git conflict
+10. git status, maybe diff too
+11. origin
+12. git branch newBranchName (or whatever you want to name it)
+13. git checkout newBranchName
+14. fork
+15. merge
+16. pull
+17. push
+18. head
+19. repository
+20. staging area
+21. tag?
+22. git init
+23. git log
+24. git status
+25. git add
+26. git commit
+27. untracked, unmodified, modified, staged
+
